@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="LicensePlateDetection" external.linked.project.path="/media/meslin/4E7E313D7E311EE1/Users/meslin/Google Drive/Doutorado/Android/LicensePlateDetection" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="/media/meslin/4E7E313D7E311EE1/Users/meslin/Google Drive/Doutorado/Android/LicensePlateDetection/build" />
+        <option name="BUILDABLE" value="false" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file:///media/meslin/4E7E313D7E311EE1/Users/meslin/Google Drive/Doutorado/Android/LicensePlateDetection">
+      <excludeFolder url="file:///media/meslin/4E7E313D7E311EE1/Users/meslin/Google Drive/Doutorado/Android/LicensePlateDetection/.gradle" />
+      <excludeFolder url="file:///media/meslin/4E7E313D7E311EE1/Users/meslin/Google Drive/Doutorado/Android/LicensePlateDetection/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
